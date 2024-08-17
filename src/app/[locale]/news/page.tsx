@@ -175,7 +175,7 @@ const FilterModal: React.FC = () => {
                 className="p-2 border border-gray-600 rounded w-full text-dark"
               />
             </div>
-            <div>
+            {/*<div>
               <label className="font-bold mb-2 block">Category</label>
               <Select
                 isMulti
@@ -185,7 +185,7 @@ const FilterModal: React.FC = () => {
                 placeholder="Select categories"
                 classNamePrefix="categories-select"
               />
-            </div>
+            </div>*/}
             <div>
               <label className="font-bold mb-2 block">Source</label>
               <Select
